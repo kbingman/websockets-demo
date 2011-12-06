@@ -1,0 +1,19 @@
+{
+  "name": "socket",
+  "description": "A simple socket app in Node.js and Flatiron",
+  "version": "0.0.1",
+  "author": "Simplificator",
+  "contributors": [
+    { "name": "Keith Bingman", "email": "keith.bingman@simplificator.com" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kbingman/flatiron.git" 
+  },
+  "licenses": [{"type": "MIT"}],
+  "dependencies": {
+    "union": "0.1.4",
+    "director": "1.0.6",
+    "socket.io": "0.8.7"
+  }
+}
